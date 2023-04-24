@@ -6,6 +6,3 @@
     <xacro:include filename="gazebo_control.xacro" />
 
 </robot>
-
-
-<!-- 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 -->
